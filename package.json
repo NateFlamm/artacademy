@@ -1,0 +1,24 @@
+{
+  "name": "artacademysite",
+  "version": "1.0.0",
+  "description": "An educational art website",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateFlamm/artacademy.git"
+  },
+  "author": "Nateflamm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateFlamm/artacademy/issues"
+  },
+  "homepage": "https://github.com/NateFlamm/artacademy#readme",
+  "dependencies": {
+    "missing": "0.0.1"
+  }
+}
